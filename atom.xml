@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nevşehir Korsan Taksi | Kapadokya Havalimanı ve Oteller</title>
+  <link href="https://nevsehirkorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://nevsehirkorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://nevsehirkorsantaksi.github.io/</id>
+  <updated>2026-11-19T18:59:39.780Z</updated>
+  <author><name>Nevşehir Korsan Taksi</name></author>
+  <entry>
+    <title>Nevşehir Korsan Taksi | Kapadokya Havalimanı ve Oteller</title>
+    <link href="https://nevsehirkorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://nevsehirkorsantaksi.github.io/</id>
+    <updated>2026-11-19T18:59:39.780Z</updated>
+    <summary>Nevşehir korsan taksi: Kapadokya Havalimanı merkezden 31 km, Göreme, Ürgüp ve Avanos otelleri, balon kalkış alanı, Derinkuyu ve Hacıbektaş yolu. 7/24.</summary>
+  </entry>
+</feed>

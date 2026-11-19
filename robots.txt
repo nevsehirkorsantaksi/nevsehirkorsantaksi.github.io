@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nevsehirkorsantaksi.github.io/sitemap.xml
